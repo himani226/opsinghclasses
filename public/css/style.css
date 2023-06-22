@@ -37,6 +37,16 @@
 }
 
 
+.txt-just
+{
+text-align: justify;	
+	
+}
+
+.galleryrow {
+  margin: 15px;
+}
+
 /*** Button ***/
 .btn {
     font-family: 'Nunito', sans-serif;
@@ -431,4 +441,58 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+
+/*** Project Portfolio ***/
+#portfolio-flters li {
+    display: inline-block;
+    font-weight: 500;
+    color: var(--dark);
+    cursor: pointer;
+    transition: .5s;
+    border-bottom: 2px solid transparent;
+}
+
+#portfolio-flters li:hover,
+#portfolio-flters li.active {
+    color: var(--primary);
+    border-color: var(--primary);
+}
+
+.portfolio-img {
+    position: relative;
+}
+
+.portfolio-btn {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(98, 68, 197, .9);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 30px;
+    padding-bottom: 100px !important;
+    opacity: 0;
+    transition: .5s;
+}
+
+.portfolio-item:hover .portfolio-btn {
+    opacity: 1;
+    padding-bottom: 30px !important;
+}
+
+.gal a
+{
+ width: 100%;
+height: 100%;	
+top: 0;
+left: 0;		
+}
+.gal a:hover
+{
+ background: aqua;
+ 
 }

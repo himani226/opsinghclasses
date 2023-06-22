@@ -22,6 +22,7 @@
 
     <!-- Libraries Stylesheet -->
     <link href="lib/animate/animate.min.css" rel="stylesheet">
+	<link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
@@ -52,21 +53,30 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index" class="nav-item nav-link active">Home</a>
-                <a href="about" class="nav-item nav-link">About</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About Us</a>
+                    <div class="dropdown-menu fade-down m-0">
+                        <a href="about" class="dropdown-item">About Dr. Op Singh</a>
+                        <a href="mission" class="dropdown-item">Mission &amp;Vision</a> 
+                        <a href="testseries" class="dropdown-item">Test Series</a>
+                        <a href="videoseries" class="dropdown-item">Video Lectures</a> 
+                    </div>
+                </div>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Courses</a>
                     <div class="dropdown-menu fade-down m-0">
-                        <a href="team" class="dropdown-item">Online Courses</a>
-                        <a href="testimonial" class="dropdown-item">Offline Courses</a>
-                       
+                        <a href="courses" class="dropdown-item">OP Singh Bio Courses </a>
+                        <a href="techmed" class="dropdown-item">TechMed Learning Solutions</a>
+                        <a href="charitable" class="dropdown-item">Charitable Activities</a>
+                        <a href="computertraining" class="dropdown-item">Computer Training Courses</a>
                     </div>
                 </div>
-				 <a href="courses" class="nav-item nav-link">Our Team</a>
-				 <a href="courses" class="nav-item nav-link">Gallery</a>
+				<!--<a href="courses" class="nav-item nav-link">Our Team</a>-->
+				<a href="gallery" class="nav-item nav-link">Gallery</a>
 				<a href="courses" class="nav-item nav-link">Testimonials</a>
                 <a href="contact" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Join Now<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="queryform" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Join Us<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -84,7 +94,7 @@
                     <a class="btn btn-link" href="">About Us</a>
                     <a class="btn btn-link" href="">Contact Us</a>
                     <a class="btn btn-link" href="">Testimonials</a>
-                    <a class="btn btn-link" href="">Our Team</a>
+                    <!--<a class="btn btn-link" href="">Our Team</a>-->
                      </div>
 				<div class="col-lg-5 col-md-6">
                     <h4 class="text-white mb-3">Courses</h4>
@@ -143,7 +153,7 @@
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>

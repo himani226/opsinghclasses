@@ -18,6 +18,9 @@ use App\Http\Controllers\ContactController;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/index', function () {
+    return view('welcome');
+});
 
 Route::get('/about', function () {
     return view('about');
@@ -36,4 +39,36 @@ Route::get('/team', function () {
 
 Route::get('/courses', function () {
     return view('courses');
+});
+
+Route::get('/mission', function () {
+    return view('mission');
+});
+
+Route::get('/techmed', function () {
+    return view('techmed');
+});
+
+Route::get('/charitable', function () {
+    return view('charitable');
+});
+
+Route::get('/computertraining', function () {
+    return view('computertraining');
+});
+
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+
+Route::get('/testseries', function () {
+    return view('testseries');
+});
+
+Route::get('/videoseries', function () {
+    return view('videoseries');
+});
+
+Route::get('/queryform', function () {
+    return view('query');
 });
