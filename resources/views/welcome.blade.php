@@ -1,7 +1,7 @@
 @extends('base')
 @section('content')
-     <!-- Carousel Start -->
-     <div class="container-fluid p-0 mb-5">
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
                 <img class="img-fluid" src="img/carousel-2.jpg" alt="">
@@ -10,7 +10,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h2 class="display-4 text-white animated slideInDown">Learn biology from experienced teachers and ace your exams.</h2>
+                                <h3 class="display-6 text-white animated slideInDown">Learn Physics, Chemistry &amp; Biology (NEET) from experienced teachers and ace your exams.</h3>
                                
                                
                                 
@@ -26,7 +26,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h2 class="display-4 text-white animated slideInDown">Get Training in Industry Leading Job Oriented Courses</h2>
+                                <h3 class="display-6 text-white animated slideInDown">Get Training in Industry Leading Job Oriented Courses</h3>
                                
                                
                                 
@@ -35,6 +35,43 @@
                     </div>
                 </div>
             </div>
+			
+			<div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/carousel-3.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                
+                                <h3 class="display-6 text-white animated slideInDown"> Now Prepare for <br>M.Sc Life Science Entrance Exam</h3>
+                               
+                               
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+				<div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/carousel-4.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                
+                                <h3 class="display-6 text-white animated slideInDown">Join Today for <br>Medical <br>Representative Training Course
+</h3>
+                               
+                               
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			
         </div>
     </div>
     <!-- Carousel End -->
@@ -49,7 +86,7 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
                             <h5 class="mb-3">Skilled Instructors</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -58,7 +95,7 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-globe text-primary mb-4"></i>
                             <h5 class="mb-3">Online/ Offline Classes</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -67,7 +104,7 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-book text-primary mb-4"></i>
                             <h5 class="mb-3">Specialized Courses</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                           
                         </div>
                     </div>
                 </div>
@@ -75,8 +112,8 @@
                     <div class="service-item text-center pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
-                            <h5 class="mb-3">Assigments</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <h5 class="mb-3">Unique Course Material</h5>
+                          
                         </div>
                     </div>
                 </div>
@@ -123,7 +160,7 @@ The institute offers coaching classes for students in the higher secondary level
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Skilled Instructors</p>
                         </div>
                     </div>
-                    <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="about">Read More</a>
                 </div>
             </div>
         </div>
@@ -142,7 +179,7 @@ The institute offers coaching classes for students in the higher secondary level
                 <div class="col-lg-7 col-md-6">
                     <div class="row g-3">
                         <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
-                            <a class="position-relative d-block overflow-hidden" href="">
+                            <a class="position-relative d-block overflow-hidden" href="courses">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
                                     <h5 class="m-0">Op Singh Bio Courses</h5>
@@ -151,7 +188,7 @@ The institute offers coaching classes for students in the higher secondary level
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s">
-                            <a class="position-relative d-block overflow-hidden" href="">
+                            <a class="position-relative d-block overflow-hidden" href="computertraining">
                                 <img class="img-fluid" src="img/cat-2.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
                                     <h5 class="m-0">Computer Training Courses</h5>
@@ -160,10 +197,10 @@ The institute offers coaching classes for students in the higher secondary level
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
-                            <a class="position-relative d-block overflow-hidden" href="">
+                            <a class="position-relative d-block overflow-hidden" href="msclife">
                                 <img class="img-fluid" src="img/cat-3.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Intellitest Psychometric Test</h5>
+                                    <h5 class="m-0">M.sc Life Science Entrance Exam</h5>
                                     
                                 </div>
                             </a>
@@ -171,7 +208,7 @@ The institute offers coaching classes for students in the higher secondary level
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
-                    <a class="position-relative d-block h-100 overflow-hidden" href="">
+                    <a class="position-relative d-block h-100 overflow-hidden" href="techmed">
                         <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
                             <h5 class="m-0">TechMed Learning Solutions</h5>
@@ -229,5 +266,5 @@ The institute offers coaching classes for students in the higher secondary level
         </div>
     </div>
     <!-- Testimonial End -->
-
+        
     @endsection

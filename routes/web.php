@@ -26,6 +26,10 @@ Route::get('/about', function () {
     return view('about');
 });
 
+Route::get('/aboutopsingh', function () {
+    return view('aboutopsingh');
+});
+
 Route::get('/contact', [ContactController::class, 'showForm'])->name('contact.form');
 Route::post('/contact', [ContactController::class, 'submitForm'])->name('contact.submit');
 
@@ -53,6 +57,20 @@ Route::get('/charitable', function () {
     return view('charitable');
 });
 
+Route::get('/msclife', function () {
+    return view('msclife');
+});
+Route::get('/studymaterial', function () {
+    return view('studymaterial');
+});
+Route::get('/studyvideo', function () {
+    return view('studyvideo');
+});
+
+Route::get('/govtassociation', function () {
+    return view('govtassociation');
+});
+
 Route::get('/computertraining', function () {
     return view('computertraining');
 });
@@ -60,6 +78,19 @@ Route::get('/computertraining', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+
+Route::get('/photogallery', function () {
+    return view('photogallery');
+});
+
+Route::get('/videogallery', function () {
+    return view('videogallery');
+});
+
+Route::get('/media', function () {
+    return view('media');
+});
+
 
 Route::get('/testseries', function () {
     return view('testseries');

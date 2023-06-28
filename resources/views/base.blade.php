@@ -44,7 +44,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
-        <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+        <a href="index" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
            <img src="img/logo.svg" alt="" height="130px">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -56,10 +56,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About Us</a>
                     <div class="dropdown-menu fade-down m-0">
-                        <a href="about" class="dropdown-item">About Dr. Op Singh</a>
-                        <a href="mission" class="dropdown-item">Mission &amp;Vision</a> 
-                        <a href="testseries" class="dropdown-item">Test Series</a>
-                        <a href="videoseries" class="dropdown-item">Video Lectures</a> 
+                        <a href="aboutopsingh" class="dropdown-item">About Dr. OP Singh</a>
+                        <a href="about" class="dropdown-item">About Dr. OP Singh Classes</a>
+                        <a href="mission" class="dropdown-item">Mission &amp; Vision</a>
+                        <a href="govtassociation" class="dropdown-item">Government Associations</a>
+                        <a href="testseries" class="dropdown-item">Dr. OP Singh Test Series</a>
+                        <a href="videoseries" class="dropdown-item">Dr. OP Singh Video Series</a> 
                     </div>
                 </div>
                 <div class="nav-item dropdown">
@@ -67,13 +69,25 @@
                     <div class="dropdown-menu fade-down m-0">
                         <a href="courses" class="dropdown-item">OP Singh Bio Courses </a>
                         <a href="techmed" class="dropdown-item">TechMed Learning Solutions</a>
-                        <a href="charitable" class="dropdown-item">Charitable Activities</a>
+                        <a href="msclife" class="dropdown-item">M.Sc Life Sciences</a>
                         <a href="computertraining" class="dropdown-item">Computer Training Courses</a>
+                        <a href="studymaterial" class="dropdown-item">Study Material</a>
+                        <a href="studyvideo" class="dropdown-item">Study Video Lectures</a>
+                        <a href="charitable" class="dropdown-item">Charitable Activities</a>
                     </div>
                 </div>
 				<!--<a href="courses" class="nav-item nav-link">Our Team</a>-->
-				<a href="gallery" class="nav-item nav-link">Gallery</a>
-				<a href="courses" class="nav-item nav-link">Testimonials</a>
+				
+
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Gallery</a>
+                    <div class="dropdown-menu fade-down m-0">
+                        <a href="photogallery" class="dropdown-item">Photo Gallery</a>
+                        <a href="videogallery" class="dropdown-item">Video Gallery</a>
+                        <a href="media" class="dropdown-item">Media Coverage</a>
+                    </div>
+                </div>
+				<a href="testimonial" class="nav-item nav-link">Testimonials</a>
                 <a href="contact" class="nav-item nav-link">Contact</a>
             </div>
             <a href="queryform" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Join Us<i class="fa fa-arrow-right ms-3"></i></a>
@@ -85,35 +99,38 @@
     @yield('content')
         
 
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+   <!-- Footer Start -->
+   <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Quick Link</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Testimonials</a>
-                    <!--<a class="btn btn-link" href="">Our Team</a>-->
+                    <a class="btn btn-link" href="about">About Us</a>
+                    <a class="btn btn-link" href="contact">Contact Us</a>
+                    <a class="btn btn-link" href="testimonial">Testimonials</a>
+                    <a class="btn btn-link" href="photogallery">Gallery</a>
                      </div>
 				<div class="col-lg-5 col-md-6">
                     <h4 class="text-white mb-3">Courses</h4>
-                    <a class="btn btn-link" href="">NEET/AIIMS</a>
-                    <a class="btn btn-link" href="">Medical Sales Representative</a>
-                    <a class="btn btn-link" href="">M.Sc Life Sciences Entrance</a>
-                    <a class="btn btn-link" href="">Crash Courses</a>
-                   
+                    <a class="btn btn-link" href="courses">NEET</a>
+                    <a class="btn btn-link" href="techmed">Medical Sales Representative Training </a>
+                    <a class="btn btn-link" href="msclife">M.Sc Life Sciences Entrance Exams Preparation</a>
+                    <a class="btn btn-link" href="computertraining">Computer Training Courses</a>
+                   <a class="btn btn-link" href="charitable">Charitable Activities</a>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>SCF 28 Top Floor, Sector 15, Panchkula, Haryana</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>SCF 28 Top Floor, Sector 15
+                </br> Panchkula, Haryana, Pincode:- 134113</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91-98152-19741</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@opsinghclasses.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://twitter.com/OPSingh18363648?t=_GzL3UDAr42MljVLUyHaXQ&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/profile.php?id=100063556975250&mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://youtube.com/@opsingh959" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
+						<a class="btn btn-outline-light btn-social" href=" https://www.instagram.com/p/CNu8__7AqW_/?igshid=MTc4MmM1YmI2Ng==" target="_blank"><i class="fab fa-instagram" target="_blank"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://web.whatsapp.com/" target="_blank"><i class="fab fa-whatsapp"></i></a>
+						<a class="btn btn-outline-light btn-social" href=" https://play.google.com/store/apps/details?id=co.iron.topmz"><i class="fab fa-android"></i></a>
                     </div>
                 </div>
                
@@ -146,7 +163,7 @@
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
-    <!-- JavaScript Libraries -->
+ <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="lib/wow/wow.min.js"></script>
@@ -156,6 +173,7 @@
     <script src="lib/lightbox/js/lightbox.min.js"></script>
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+	
 </body>
 
 </html>

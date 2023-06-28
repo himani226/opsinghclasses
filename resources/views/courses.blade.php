@@ -145,7 +145,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">OP Sharma Test Series</h3>
+                            <h3 class="mb-4">OP Singh Test Series</h3>
 							<p class="mb-4">Test series for plus one,plus two, NEET and all other competitive classes will be conducted online portal through CLASS PLUS <br><br><br><br></p><br>
                         </div>
                       
