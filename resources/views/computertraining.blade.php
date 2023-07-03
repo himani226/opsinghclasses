@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Computer Training Courses</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Computer Training Courses</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -27,7 +27,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Courses</h6>
-                <h1 class="mb-5">Computer Training Courses Offered </h1>
+                <h1 class="mb-5 head_txt">Computer Training Courses Offered </h1>
             </div>
 			<h4>Computer science-related training courses as well as industrial training courses for professional students:</h4><br>
             <div class="row g-4 justify-content-center">

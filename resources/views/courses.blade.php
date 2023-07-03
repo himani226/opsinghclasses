@@ -7,11 +7,12 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Courses</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">OP Singh Bio Courses</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Courses</li>
+                            <li class="breadcrumb-item"><a class="text-white" href="#">Courses</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">OP Singh Bio Courses</li>
                         </ol>
                     </nav>
                 </div>
@@ -25,7 +26,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Courses</h6>
-                <h1 class="mb-5">Courses Offered </h1>
+                <h1 class="mb-5 head_txt">Courses Offered </h1>
             </div>
 			<h5></h5>
             <div class="row g-4 justify-content-center">
@@ -37,7 +38,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">+1 and +2 Batches</h3>
+                            <h3 class="mb-4 subhead_txt">+1 and +2 Batches</h3>
 							<p class="mb-4">Our detailed batches for students in the Plus One and Plus Two levels will commence from April and continue until February. These batches will provide comprehensive coaching and guidance for the respective academic years, helping you excel in your studies.<br> &nbsp;</p><br>
                         </div>
                        
@@ -51,7 +52,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">NEET Batches</h3>
+                            <h3 class="mb-4 subhead_txt">NEET Batches</h3>
 							<p class="mb-4">We understand the significance of NEET preparation for aspiring medical professionals. Therefore, we have introduced specialized NEET batches that will run from April to February. These batches will focus on rigorous training and extensive practice to help you achieve success in the NEET entrance examination.</p><br>
                         </div>
                        
@@ -65,7 +66,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Crash Courses</h3>
+                            <h3 class="mb-4 subhead_txt">Crash Courses</h3>
 							<p class="mb-4">For students looking for quick and intensive exam preparation, we offer crash courses. These courses will be conducted from April to May and will cover important topics and exam strategies in a concise and targeted manner. They are designed to help you optimize your preparation in a short period.</p><br>
                         </div>
                       
@@ -84,7 +85,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Dropper Batches</h3>
+                            <h3 class="mb-4 subhead_txt">Dropper Batches</h3>
 							<p class="mb-4">If you are planning to take a drop year to improve your performance and aim for better results, we have dedicated dropper batches for you. These batches will commence from June onwards and provide specialized guidance to help you enhance your knowledge and skills for competitive exams.<br><br><br></p><br>
                         </div>
                        <!-- <div class="d-flex mb-4 ">
@@ -100,7 +101,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Job-Oriented and Competitive Exams</h3>
+                            <h3 class="mb-4 subhead_txt">Job-Oriented and Competitive Exams</h3>
 							<p class="mb-4">OP Singh Classes recognizes the importance of job-oriented and competitive exams conducted by various public service commissions and state staff selection boards. We will align our coaching schedules and curriculum with the relevant exam dates to ensure you receive comprehensive guidance for these examinations.</p><br>
                         </div>
                        
@@ -114,7 +115,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Medical Representative Training Course</h3>
+                            <h3 class="mb-4 subhead_txt">Medical Representative Training Course</h3>
 							<p class="mb-4">: After completing your graduation exams, we offer a specialized training course for aspiring medical representatives. This course will equip you with the necessary skills, knowledge, and industry insights required to excel in the field of medical sales and representation.<br><br></p><br>
                         </div>
                       
@@ -131,7 +132,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Computer Training Course</h3>
+                            <h3 class="mb-4 subhead_txt">Computer Training Course</h3>
 							<p class="mb-4">Throughout the year, we provide a selected computer training course that covers essential computer skills and applications. This course aims to enhance your proficiency in computer usage, which is becoming increasingly important in various fields and professions.</p><br>
                         </div>
                      
@@ -145,7 +146,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">OP Singh Test Series</h3>
+                            <h3 class="mb-4 subhead_txt">OP Singh Test Series</h3>
 							<p class="mb-4">Test series for plus one,plus two, NEET and all other competitive classes will be conducted online portal through CLASS PLUS <br><br><br><br></p><br>
                         </div>
                       
@@ -159,7 +160,7 @@
                         </div>
                         <div class="text-center p-4 pb-0">
                                                   
-                            <h3 class="mb-4">Philanthropic Activities</h3>
+                            <h3 class="mb-4 subhead_txt">Philanthropic Activities</h3>
 							<p class="mb-4">At OP Singh Classes Coaching Institute, we believe in giving back to society. We engage in philanthropic activities aimed at supporting underprivileged students, providing scholarships, and contributing to educational initiatives that promote equal opportunities for all.</p><br>
                         </div>
                       

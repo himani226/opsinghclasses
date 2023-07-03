@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">About Dr. OP Singh Classes</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">About Dr. OP Singh Classes</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
-                    <h1 class="mb-4">About Dr. OP Singh </h1>
+                    <h1 class="mb-4 head_txt">About Dr. OP Singh </h1>
                     <p class="mb-4">OP Singh Classes, led by Dr. OP Singh, is a renowned educational institute that has gained international recognition for its exceptional coaching and philanthropic initiatives. Dr. OP Singh, a distinguished educationist and philanthropist, holds an MSc (Hons.) and a Ph.D. from Panjab University, Sector 14, Chandigarh, which he completed in December 1993. After obtaining his Ph.D., he began his career as a lecturer in the government sector while simultaneously serving the coaching industry in Chandigarh and Panchkula.
 </p>
                     <p class="mb-4">Dr. OP Singh initially started his career as a tutor in individual subjects. Recognizing the need for comprehensive coaching for medical and non-medical entrance exams, he assembled a team of highly qualified tutors specializing in these areas. What sets his institute apart is their expertise in providing coaching to droppers/repeaters, a specialized batch catering to students who require additional support and guidance.</p><br>

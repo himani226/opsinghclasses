@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Videos</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Videos</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -35,7 +35,7 @@
                    
             
 	<br><br>
-     <h1>Video</h1><br>
+     <h1 class="head_txt">Video</h1><br>
                   
 					<iframe width="400" height="250" src="https://www.youtube.com/embed/LxZfZzXqrPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="me-3 mb-3"></iframe>
 					

@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">M.Sc Life Science Entrance Exam</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">M.Sc Life Science Entrance Exam</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Courses</h6>
-                    <h1 class="mb-4">M.Sc Life Science Entrance Exam</h1>
+                    <h1 class="mb-4 head_txt">M.Sc Life Science Entrance Exam</h1>
                     <p class="mb-4">Dr. OP Singh, a renowned expert in the field of Life Sciences, has taken the initiative to prepare aspiring students for MSc Life Science entrance examinations. Recognizing the complexity of the subject and the challenges faced by students in competitive exams, Dr. Singh has designed a comprehensive program to equip students with the necessary skills and knowledge to excel in these tests.
 </p>
                     <p class="mb-4">The MSc Life Science entrance preparation program curated by Dr. OP Singh is specifically tailored to address the intricate aspects of biology that are commonly asked in competitive entrance examinations. The program aims to provide students with a deep understanding of the subject matter and develop their problem-solving abilities.<br><br>

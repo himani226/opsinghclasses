@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Testimonials</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Testimonials</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -24,7 +24,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Testimonials</h6>
-                <h1 class="mb-5">What our Student Says?</h1>
+                <h1 class="mb-5 head_txt">What our Student Says?</h1>
             </div>
             <div class="row g-4">
            <div class="col-12">

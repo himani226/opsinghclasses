@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Dr OP Singh’s Test Series</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Dr OP Singh’s Test Series</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Dr OP Singh’s Test Series</h6>
-                    <h1 class="mb-4"> Test Series</h1>
+                    <h1 class="mb-4 head_txt"> Test Series</h1>
                     <p class="mb-4">Dr. OP Singh Classes offers a comprehensive test series and daily practice paper program that provides significant benefits to students preparing for competitive entrance examinations. This test series is designed to enhance students' exam readiness, improve their performance, and boost their chances of success. Here are the details of how this program proves to be highly beneficial for the students:
 </p>
                     <p class="mb-4">The new initiative launched by OP Singh Classes is a specialized course called the Medical Representative Training Course. This course has a duration of three months and aims to provide comprehensive training to individuals interested in pursuing a career as a medical representative.<br><br>

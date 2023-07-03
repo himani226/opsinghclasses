@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Dr OP Singh’s Video Lectures</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Dr OP Singh’s Video Lectures</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Dr OP Singh’s Videos</h6>
-                    <h1 class="mb-4">Video Lectures</h1>
+                    <h1 class="mb-4 head_txt">Video Lectures</h1>
                     <p class="mb-4">Dr. OP Singh is a highly experienced individual who has dedicated the last 27 years of his life to the coaching industry. Over the years, he has made a significant impact on the lives of thousands of students aspiring to pursue careers in medicine and paramedical fields. His tireless efforts and expertise have helped numerous students secure admission into prestigious institutes in India and abroad.
 <br><br>
                     Throughout his career, Dr. OP Singh has honed his teaching methodologies and developed an in-depth understanding of the requirements and challenges faced by students preparing for medical entrance exams. He possesses a wealth of knowledge and experience, enabling him to provide valuable guidance and support to his students.<br><br>

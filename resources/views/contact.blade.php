@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Contact</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Contact</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -26,7 +26,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Contact Us</h6>
-                <h1 class="mb-5">Please Feel Free Contact Us</h1>
+                <h1 class="mb-5 head_txt">Please Feel Free Contact Us</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

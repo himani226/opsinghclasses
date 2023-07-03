@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">About Dr. OP Singh</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">About Dr. OP Singh</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Dr. OP Singh Classes </h6>
-                    <h1 class="mb-4">About Dr. OP Singh Classes </h1>
+                    <h1 class="mb-4 head_txt">About Dr. OP Singh Classes </h1>
                     <p class="mb-4">Panchkula Educational Associates, also known as OP Singh Classes, is an educational institute located in Sector 15, Panchkula, India. The institute is registered with the Micro, Small, and Medium Enterprises (MSME) government of India under the Udyam registration number UDYAM-HR-13-0011078. This registration signifies that the organization falls under the MSME category and is eligible for certain benefits and support provided by the government.
 
 </p>
@@ -73,7 +73,7 @@ Overall, Panchkula Educational Associates (OP Singh Classes) is a registered edu
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Our Team</h6>
-                <h1 class="mb-5">Expert Faculity</h1>
+                <h1 class="mb-5 head_txt">Expert Faculity</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

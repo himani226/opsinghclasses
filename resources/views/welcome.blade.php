@@ -10,7 +10,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h3 class="display-6 text-white animated slideInDown">Learn Physics, Chemistry &amp; Biology (NEET) from experienced teachers and ace your exams.</h3>
+                                <h3 class="display-6 text-white animated slideInDown head_txt">Learn Physics, Chemistry &amp; Biology (NEET) from experienced teachers and ace your exams.</h3>
                                
                                
                                 
@@ -26,7 +26,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h3 class="display-6 text-white animated slideInDown">Get Training in Industry Leading Job Oriented Courses</h3>
+                                <h3 class="display-6 text-white animated slideInDown head_txt">Get Training in Industry Leading Job Oriented Courses</h3>
                                
                                
                                 
@@ -43,7 +43,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h3 class="display-6 text-white animated slideInDown"> Now Prepare for <br>M.Sc Life Science Entrance Exam</h3>
+                                <h3 class="display-6 text-white animated slideInDown head_txt"> Now Prepare for <br>M.Sc Life Science Entrance Exam</h3>
                                
                                
                                 
@@ -60,7 +60,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h3 class="display-6 text-white animated slideInDown">Join Today for <br>Medical <br>Representative Training Course
+                                <h3 class="display-6 text-white animated slideInDown head_txt">Join Today for <br>Medical <br>Representative Training Course
 </h3>
                                
                                
@@ -84,8 +84,8 @@
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item text-center pt-3">
                         <div class="p-4">
-                            <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
-                            <h5 class="mb-3">Skilled Instructors</h5>
+                            <img src="img/i1.svg" height="128px"><br><br>
+                            <h5 class="mb-2"><strong>EXPERICENCED FACULTY</strong></h5>
                             
                         </div>
                     </div>
@@ -93,8 +93,8 @@
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item text-center pt-3">
                         <div class="p-4">
-                            <i class="fa fa-3x fa-globe text-primary mb-4"></i>
-                            <h5 class="mb-3">Online/ Offline Classes</h5>
+                              <img src="img/i2.svg" height="128px"><br><br>
+                            <h5 class="mb-2"><strong>HYBRID CLASSES</strong></h5>
                             
                         </div>
                     </div>
@@ -102,8 +102,8 @@
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item text-center pt-3">
                         <div class="p-4">
-                            <i class="fa fa-3x fa-book text-primary mb-4"></i>
-                            <h5 class="mb-3">Specialized Courses</h5>
+                            <img src="img/i3.svg" height="128px"><br><br>
+                            <h5 class="mb-2"><strong>SPECIALIZED COURSES</strong></h5>
                            
                         </div>
                     </div>
@@ -111,8 +111,8 @@
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item text-center pt-3">
                         <div class="p-4">
-                            <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
-                            <h5 class="mb-3">Unique Course Material</h5>
+                            <img src="img/i4.svg" height="128px"><br><br>
+                            <h5 class="mb-2"><strong>COURSE MATERIAL</strong></h5>
                           
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
-                    <h1 class="mb-4">Welcome to OP Singh Classes</h1>
+                    <h1 class="mb-4 head_txt">Welcome to OP Singh Classes</h1>
                     <p class="mb-4">Panchkula Educational Associates, also known as OP Singh Classes, is an educational institute located in Sector 15, Panchkula, India. The institute is registered with the Micro, Small, and Medium Enterprises (MSME) government of India under the Udyam registration number UDYAM-HR-13-0011078. This registration signifies that the organization falls under the MSME category and is eligible for certain benefits and support provided by the government.
 </p>
                     <p class="mb-4">Panchkula Educational Associates operates in the educational support services sector, which is classified under the national industry classification code 85. This sector primarily involves providing various types of support services to the education sector.<br><br>
@@ -173,7 +173,7 @@ The institute offers coaching classes for students in the higher secondary level
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Our Courses</h6>
-                <h1 class="mb-5">Featured Courses</h1>
+                <h1 class="mb-5 head_txt">Featured Courses</h1>
             </div>
             <div class="row g-3">
                 <div class="col-lg-7 col-md-6">
@@ -182,7 +182,7 @@ The institute offers coaching classes for students in the higher secondary level
                             <a class="position-relative d-block overflow-hidden" href="courses">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Op Singh Bio Courses</h5>
+                                    <h5 class="m-0">OP Singh Bio Courses</h5>
                                   
                                 </div>
                             </a>
@@ -200,7 +200,7 @@ The institute offers coaching classes for students in the higher secondary level
                             <a class="position-relative d-block overflow-hidden" href="msclife">
                                 <img class="img-fluid" src="img/cat-3.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">M.sc Life Science Entrance Exam</h5>
+                                    <h5 class="m-0">M.Sc Life Science Entrance Exam</h5>
                                     
                                 </div>
                             </a>
@@ -211,7 +211,7 @@ The institute offers coaching classes for students in the higher secondary level
                     <a class="position-relative d-block h-100 overflow-hidden" href="techmed">
                         <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
-                            <h5 class="m-0">TechMed Learning Solutions</h5>
+                            <h5 class="m-0">TechMed Learning Solutions<br>Medical Sales Representative Training</h5>
                            
                         </div>
                     </a>
@@ -227,7 +227,7 @@ The institute offers coaching classes for students in the higher secondary level
         <div class="container">
             <div class="text-center">
                 <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
-                <h1 class="mb-5">Our Students Say!</h1>
+                <h1 class="mb-5 head_txt">Our Students Say!</h1>
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item text-center">

@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Gallery</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Gallery</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -29,7 +29,7 @@
         <div class="container">
             <div class="row g-5 mb-5 align-items-center wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-6">
-                    <h1 class="display-5 mb-0">Gallery</h1>
+                    <h1 class="display-5 mb-0 head_txt">Gallery</h1>
                 </div>
 				 <div class="col-lg-6 text-lg-end">
                     <ul class="list-inline mx-n3 mb-0" id="portfolio-flters">

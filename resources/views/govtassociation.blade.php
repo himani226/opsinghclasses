@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">Government Association</h1>
+                    <h1 class="display-3 text-white animated slideInDown head_txt">Government Association</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -31,7 +31,7 @@
             <div class="row g-5 text-justify">
 				 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Government Association</h6>
-                <h1 class="mb-5">List of Associations</h1>
+                <h1 class="mb-5 head_txt">List of Associations</h1>
             </div>
 				
 					               
