@@ -98,9 +98,10 @@ text-align: justify;
 
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     padding: 25px 0;
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
     outline: none;
 }
@@ -128,7 +129,7 @@ text-align: justify;
 
 .navbar-light .navbar-nav .nav-link {
     color:#dd040a;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .navbar-light.sticky-top {
@@ -143,6 +144,7 @@ text-align: justify;
         opacity: 0;
         visibility: hidden;
         transition: .5s;
+        font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     }
 
     .navbar .dropdown-menu.fade-down {
@@ -214,6 +216,51 @@ text-align: justify;
 
 .page-header {
     background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(../img/carousel-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header1 {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header2 {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header-contact {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph3.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header-courses{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header-gallery{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph5.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header-testimonials{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph6.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header-vm{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph7.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -502,6 +549,7 @@ left: 0;
  background: aqua;
  
 }
+/*** Changes ***/
 .head_txt
 {
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";

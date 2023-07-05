@@ -3,7 +3,7 @@
 
 
     <!-- Header Start -->
-    <div class="container-fluid bg-primary py-5 mb-5 page-header">
+    <div class="container-fluid bg-primary py-5 mb-5 page-header-testimonials">
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
@@ -19,8 +19,8 @@
         </div>
     </div>
     <!-- Header End -->
-    <!-- Contact Start -->
-    <div class="container-xxl py-5">
+ <!-- Contact Start -->
+ <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Testimonials</h6>
@@ -32,10 +32,10 @@
 
 				<div class="col">
                 <div class="card mb-4">
-                    <div class="card-body">
+                    <div class="card-body" style="background-color:#cef3ff">
                         <blockquote class=" ">
 
-                            <i class="fa fa-quote-right fa-2x text-muted pull-right mt-3 mb-3" aria-hidden="true"></i>
+                            <i class="fa fa-quote-right fa-2x text-muted pull-right mt-3 mb-3" style="color:#9C1517" aria-hidden="true"></i>
                             <p class=" m-0 text-muted mb-4">
                                 "OP Singh Classes has been a game-changer for my academic journey. The dedicated faculty and their comprehensive teaching approach helped me grasp complex concepts with ease. Thanks to their guidance, I was able to achieve remarkable results in my exams. Highly recommended!" 
                             </p>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
 					</div>
-                <div class="card mb-4">
+                <div class="card mb-4"  style="background-color:#e6f9e0">
                     <div class="card-body">
                         <blockquote class=" ">
 
@@ -66,7 +66,7 @@
                     </div>
                 </div>
 				<div class="col">
-                <div class="card mb-4">
+                <div class="card mb-4"  style="background-color:#fff1d4">
                     <div class="card-body">
                         <blockquote class=" ">
 
@@ -84,7 +84,7 @@
                 </div>
 				</div>
 				<div class="col">
-                <div class="card mb-4">
+                <div class="card mb-4"   style="background-color:#ffdbd4">
                     <div class="card-body">
                         <blockquote class=" ">
 
@@ -102,7 +102,7 @@
                 </div>
 				</div>
 			<div class="col">
-                <div class="card mb-4">
+                <div class="card mb-4"   style="background-color:#dfe7fd">
                     <div class="card-body">
                         <blockquote class=" ">
 
@@ -120,7 +120,7 @@
                     </div>
                 </div>
 				</div>
-                <div class="card mb-4">
+                <div class="card mb-4" style="background-color:#ffeaf2">
                     <div class="card-body">
                         <blockquote class=" ">
 

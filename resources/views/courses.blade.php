@@ -3,7 +3,7 @@
 
 
     <!-- Header Start -->
-    <div class="container-fluid bg-primary py-5 mb-5 page-header">
+    <div class="container-fluid bg-primary py-5 mb-5 page-header-courses">
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
@@ -166,6 +166,20 @@
                       
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/course10.jpg" alt="">
+                           
+                        </div>
+                        <div class="text-center p-4 pb-0">
+                                                  
+                            <h3 class="mb-4 subhead_txt">General Duty Assistant (GDA)</h3>
+							<p class="mb-4">The GDA course is an ideal starting point for a healthcare career, providing comprehensive training in patient care, anatomy, and ethics. GDAs support patients' well-being in diverse settings and can pursue further specialization. It's a rewarding path dedicated to serving others with compassion and skill</p><br>
+                        </div>
+                      
+                    </div>
+                </div> 
             </div>
 			
 			<br><br>

@@ -3,7 +3,7 @@
 
 
 <!-- Header Start -->
-<div class="container-fluid bg-primary py-5 mb-5 page-header">
+<div class="container-fluid bg-primary py-5 mb-5 page-header-courses">
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
@@ -33,12 +33,12 @@
                         <img class="img-fluid position-absolute w-100 h-100" src="img/m1.jpg" alt="" style="object-fit: cover;">
                     </div>
                 </div>
-                <div class="col-lg-6 wow fadeInUp txt-just" data-wow-delay="0.3s">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">TechMed Learning Solutions</h6>
                     <h1 class="mb-4 head_txt"> Medical Representative Training Course</h1>
-                    <p class="mb-4">OP Singh Classes, operating under the banner of Tech Med Learning Solutions, is a well-established coaching institute in Chandigarh and Panchkula. Known for its reputable name in the coaching industry, OP Singh Classes has decided to venture into a new sector in the coaching industry in Punjab, Haryana, Himachal Pradesh, and Chandigarh.
+                    <p class="mb-4  txt-just">OP Singh Classes, operating under the banner of Tech Med Learning Solutions, is a well-established coaching institute in Chandigarh and Panchkula. Known for its reputable name in the coaching industry, OP Singh Classes has decided to venture into a new sector in the coaching industry in Punjab, Haryana, Himachal Pradesh, and Chandigarh.
 </p>
-                    <p class="mb-4">The new initiative launched by OP Singh Classes is a specialized course called the Medical Representative Training Course. This course has a duration of three months and aims to provide comprehensive training to individuals interested in pursuing a career as a medical representative.<br>
+                    <p class="mb-4 txt-just">The new initiative launched by OP Singh Classes is a specialized course called the Medical Representative Training Course. This course has a duration of three months and aims to provide comprehensive training to individuals interested in pursuing a career as a medical representative.<br>
  
 The course is designed and conducted by a team of skilled professionals and educationists based in Panchkula. These experts have extensive experience in the pharmaceutical industry and possess the knowledge and expertise required to train aspiring medical representatives effectively.
 </p><br>

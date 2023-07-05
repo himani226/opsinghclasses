@@ -3,7 +3,7 @@
 
 
     <!-- Header Start -->
-    <div class="container-fluid bg-primary py-5 mb-5 page-header">
+    <div class="container-fluid bg-primary py-5 mb-5 page-header-courses">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-10 text-center">
@@ -31,11 +31,15 @@
             <div class="row g-5 text-justify">
               
                 <div class="col-lg-12 wow fadeInUp txt-just" data-wow-delay="0.3s">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary">Video Lectures</h6>
+                <h1 class="mb-5 head_txt">Study Videos Lectures</h1>
+            </div>
                    
                    
             
 	<br><br>
-     <h3>Study Video Lectures </h3><br>
+     <h3> Video Lectures </h3><br>
 	
 	<iframe width="400" height="250" src="https://www.youtube.com/embed/jyY3poMafIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="me-3 mb-3"></iframe>
 			
