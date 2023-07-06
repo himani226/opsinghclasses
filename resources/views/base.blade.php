@@ -68,7 +68,7 @@
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Courses</a>
                     <div class="dropdown-menu fade-down m-0">
                         <a href="courses" class="dropdown-item">OP Singh Bio Courses </a>
-                        <a href="techmed" class="dropdown-item">TechMed Learning Solutions</a>
+                        <a href="techmed" class="dropdown-item">TechMed learning solutions ( Medical Representative Training Course)</a>
                         <a href="msclife" class="dropdown-item">M.Sc Life Sciences</a>
                         <a href="computertraining" class="dropdown-item">Computer Training Courses</a>
                         <a href="studymaterial" class="dropdown-item">Study Material</a>

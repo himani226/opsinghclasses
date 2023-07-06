@@ -26,7 +26,7 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 
-                                <h3 class="display-6 text-white animated slideInDown head_txt">Get Training in Industry Leading Job Oriented and Computer related Courses</h3>
+                                <h3 class="display-6 text-white animated slideInDown head_txt">Get Training in Industry Leading Job Oriented, Computer and GDA related Courses</h3>
                                
                                
                                 
