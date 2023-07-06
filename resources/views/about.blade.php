@@ -121,9 +121,20 @@ Overall, Panchkula Educational Associates (OP Singh Classes) is a registered edu
                         </div>
                      
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Simran Vinayak
-</h5>
+                            <h5 class="mb-0">Simran Vinayak</h5>
                             <small>Biology Expert</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-5.jpeg" alt="">
+                        </div>
+                     
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Karamvir Rajpal</h5>
+                            <small>HOD Computer Science</small>
                         </div>
                     </div>
                 </div>
